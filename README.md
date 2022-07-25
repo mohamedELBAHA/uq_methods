@@ -5,7 +5,7 @@ In this repository, we will use Monte Carlo Dropout as a method for quantifying 
 
 
 
-[](mcd.PNG)
+![image](mcd.PNG)
 
 References : 
 
