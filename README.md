@@ -20,10 +20,6 @@ To have a large view betweeen the performance of the methods using two types of 
 
 <br> </br> 
 
-<div align="center">
-  <a href="UQ Methods/"><img src="pictures/wikiplan.png"></a>
-</div>
-
 ### Project Structure
 
 Uncertainty-quantification
