@@ -19,7 +19,6 @@ To have a large view betweeen the performance of the methods using two types of 
 </div>
 
 <br> </br> 
-A full documentation is available in the wiki section, in the left side of screen as shown in the picture below.
 
 <div align="center">
   <a href="UQ Methods/"><img src="pictures/wikiplan.png"></a>
